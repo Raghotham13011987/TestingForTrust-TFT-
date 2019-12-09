@@ -5,6 +5,6 @@ The package tft has been organized with following files to audit image classifie
 generalization_image.py, robustness_image.py & interpretability_image.py 
 These files are the starting point if one wishes to have a look at. The research citations and documentations have been provided wherever necessary in these files. Please write to the authors for any queries.
 # Authors' Distribution List:
-
+TFTAuthors@accenture.com
 # Video Link:
 
